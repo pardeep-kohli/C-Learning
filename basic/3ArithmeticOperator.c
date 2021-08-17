@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
+//All None Zero Value will be True
 {
     int a, b;
     a = 34;
