@@ -1,0 +1,4 @@
+Read After Some Time
+simple description of Miscellaneous Operator
+1. sizeof() - Return the size of a variable
+2. &
