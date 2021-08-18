@@ -1,0 +1,12 @@
+Read After Some Time
+simple description of Miscellaneous Operator
+1. sizeof() - Return the size of a variable
+2. &        - Return the Address of a variable
+3. *        - Pointer to a variable
+4. ?:       - Conditional Expression.
+
+OPERATOR PRECEDENCE IN 
+
+In Programming languages, the associativity of an operator
+is a property that determines how operators of the same precedence 
+are grouped in the absence of parentheses.
