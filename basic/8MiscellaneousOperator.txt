@@ -1,4 +1,6 @@
 Read After Some Time
 simple description of Miscellaneous Operator
 1. sizeof() - Return the size of a variable
-2. &
+2. &        - Return the Address of a variable
+3. *        - Pointer to a variable
+4. ?:       - Conditional Expression.
